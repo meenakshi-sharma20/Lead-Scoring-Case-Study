@@ -15,4 +15,13 @@ They want the model to be able to handle future constraints as well like Peak ti
 
 <img src="https://t.bkit.co/w_63cd42b99c9ce.gif" />
 
+## Output Solution
+
+The final output submission is created under repository :
+1) python code file.ipynb include the python code file for the data analysis and model building/evaluation
+2) Lead Scoring Case Study ppt.pdf provides summary of the data analysis and final model build using logistic regression
+3) Summary lead scoring.pdf provides brief summary of final model
+4) Assignment Subjective questions.pdf provide answers to the subjective questions
+
+
 ## Submitted by Meenakshi Sharma 
